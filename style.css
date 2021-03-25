@@ -1,0 +1,40 @@
+
+
+body{
+
+    background-color: black;
+    background-image:url("https://images.pexels.com/photos/258109/pexels-photo-258109.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1920"  );
+   
+
+
+}
+
+
+
+
+
+
+
+.foto{
+    display: flex;
+    height: 200px;
+    
+    border: white 5px solid;
+    border-top-right-radius:95px;
+    border-top-left-radius: 95px;
+      border-bottom-right-radius: 95px;
+      border-bottom-left-radius: 95px;
+      margin-left:45%;
+      margin-top: 10%; 
+ 
+ 
+ 
+    }
+    .texto{
+text-align: center;
+font-family: 'Squada One', cursive;
+    }
+    
+
+
+
